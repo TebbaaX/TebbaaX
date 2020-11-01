@@ -3,10 +3,7 @@
 
 ## Hello There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## Whoami : 
-> Adnane Tebbaa 
-> From Morocco 
-> I'm a Bug Bounty Hunter,Python Programmer
-
+> Hi! Named Adnane I'm a BugBounty Hunter,Python Programmer
 > in Love with Exploit-Dev...Reverse-Eng...SDR Tech and More...
 
 
