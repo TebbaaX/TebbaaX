@@ -7,9 +7,6 @@
 - From Morocco 
 - I'm a BugHunter-Python Programmer
 ## In <img src="https://thumbs.gfycat.com/DarlingBronzeHerring-size_restricted.gif" width="25px"> with : 
-- Exploit-Dev
-- Reverse-Eng (Malwares,Apps...)
-- SDRs and RF Security 
-- and More...
+Exploit-Dev|Reverse-Eng|SDR and RF security and More 
 
 <img src="https://i.pinimg.com/originals/3c/33/5d/3c335d4cc70ddbc0a043cf6906e5f94a.gif" width="400px">
