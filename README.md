@@ -9,4 +9,4 @@
 > in Love with Exploit-Dev...Reverse-Eng...SDR Tech and More...
 
 
-<img src="https://i.pinimg.com/originals/3c/33/5d/3c335d4cc70ddbc0a043cf6906e5f94a.gif" width="300px">
+<img src="https://i.pinimg.com/originals/3c/33/5d/3c335d4cc70ddbc0a043cf6906e5f94a.gif" width="350px">
