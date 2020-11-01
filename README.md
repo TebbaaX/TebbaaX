@@ -4,9 +4,9 @@
 - From Morocco 🇲🇦
 - I'm a BugHunter-Python Programmer
 - In Love 💖 with : 
-- CyberSecurity
 - Exploit-Dev
-
+- Reverse-Eng (Malwares,Apps...)
+- SDRs and RF Security 
 
 
 
