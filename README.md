@@ -1,5 +1,5 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=adnane-x-tebbaa&show_icons=true&theme=dark" width="380">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnane-x-tebbaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats
+
 
 ## Hello There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## Whoami : 
