@@ -12,4 +12,4 @@
 - SDRs and RF Security 
 - and More...
 
-<img src="https://i.pinimg.com/originals/ce/b4/27/ceb4275f862647cb6a52f13dabd2f3cf.gif" width="25px">
+<img src="https://i.pinimg.com/originals/ce/b4/27/ceb4275f862647cb6a52f13dabd2f3cf.gif" width="250px">
