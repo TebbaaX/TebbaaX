@@ -5,7 +5,7 @@
 ## Whoami : 
 > Adnane Tebbaa 
 > From Morocco 
-> I'm a Bug Bounty Hunter and a Python Programmer
+> I'm a Bug Bounty Hunter,Python Programmer
 > in Love with Exploit-Dev...Reverse-Eng...SDR Tech and More...
 
 
