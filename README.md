@@ -2,7 +2,7 @@
 
 
 ## Hello There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-## WhoAmI : 
+## Who Am I : 
 > Adnane Tebbaa 
 > From Morocco 
 > I'm a BugHunter-Python Programmer
