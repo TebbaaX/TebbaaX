@@ -1,12 +1,13 @@
 ### Hello There 👋
 ### WhoAmI : 
 - Adnane Tebbaa 😄
-- From Morocco 🇲🇦
+- From Morocco 
 - I'm a BugHunter-Python Programmer
-- In Love 💖 with : 
+- In 💖 with : 
 - Exploit-Dev
 - Reverse-Eng (Malwares,Apps...)
 - SDRs and RF Security 
+- and More...
 
 
 
