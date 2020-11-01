@@ -1,5 +1,5 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=adnane-x-tebbaa&show_icons=true&theme=dark" width="380">
-[![Github All Releases](https://img.shields.io/twitter/follow/TebbaaX)]()
+
 
 ## Hello There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## Whoami : 
