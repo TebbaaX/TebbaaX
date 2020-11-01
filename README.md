@@ -5,7 +5,7 @@
 ## Who Am I : 
 > Adnane Tebbaa 
 > From Morocco 
-> I'm a BugHunter-Python Programmer
+> I'm a BugHunter and a Python Programmer
 ## In <img src="https://thumbs.gfycat.com/DarlingBronzeHerring-size_restricted.gif" width="25px"> with : 
 Exploit-Dev...Reverse-Eng...SDR and RF security and More 
 
