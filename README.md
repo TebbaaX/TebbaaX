@@ -5,7 +5,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnane-x-tebbaa" width="380">
 
-<img src="https://raw.githubusercontent.com/adnane-X-tebbaa/imgs/master/fight2.gif" width="400px">
+<img src="https://raw.githubusercontent.com/adnane-X-tebbaa/imgs/master/XGifs/1.gif" width="400px">
 
 
 <h3>Where to find me : </h3>
