@@ -12,4 +12,4 @@
 <p> <a href="https://twitter.com/TebbaaX" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 </p>
 
-<iframe width="480" height="270" src="http://ustream.tv/embed/17074538" scrolling="no" allowfullscreen webkitallowfullscreen frameborder="0" style="border: 0 none transparent;"></iframe>
+
