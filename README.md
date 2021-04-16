@@ -1,7 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=adnane-x-tebbaa&show_icons=true&theme=dark" width="380">
 
 ## Whoami : 
-> Hi! Named Adnane I'm a CyberSecurity Reasearcher,BugBounty Hunter (Mobile and Web Security),Python Programmer always in Love with Exploit-Dev / Reverse-Eng / SDR Tech and More...This is My Github Enjoy!
+> Hi! Named Adnane I'm a CyberSecurity Enthusiast/Reasearcher,BugBounty Hunter (Mobile and Web Security),Python Programmer always in Love with Exploit-Dev / Reverse-Eng / SDR Tech and More...This is My Github Enjoy!
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnane-x-tebbaa" width="380">
 
