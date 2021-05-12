@@ -6,7 +6,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnane-x-tebbaa" width="380">
 
-<img src="http://www.astroclaudine.fr/oukaimeden/Data/ImageLastFTP_AllSKY.jpg" width="700px">
+<img src="http://www.astroclaudine.fr/oukaimeden/Data/ImageLastFTP_AllSKY.jpg" width="650px">
 
 
 <h3>Where to find me : </h3>
