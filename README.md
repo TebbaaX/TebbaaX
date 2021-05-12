@@ -10,5 +10,4 @@
 
 
 <img src="http://www.astroclaudine.fr/oukaimeden/Data/ImageLastFTP_AllSKY.jpg" width="418px">
-
 **Live view from Okeimden Observatory skycam** - **Live Refreshed every 18min**
