@@ -9,4 +9,4 @@
 </p>
 <img src="http://www.astroclaudine.fr/oukaimeden/Data/ImageLastFTP_AllSKY.jpg" width="418px">
 
- **cam under maintenance : 20/5/2020 - 22h:59min GMT+1**
+ **Cam under maintenance : 20/5/2020 - 22h:59min GMT+1**
