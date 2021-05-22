@@ -8,6 +8,3 @@
 <p> <a href="https://twitter.com/TebbaaX" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 </p>
 <img src="http://www.astroclaudine.fr/oukaimeden/Data/ImageLastFTP_AllSKY.jpg" width="418px">
-
- **Cam under maintenance : 20/5/2020 - 22h:59min GMT+1**
- **Cam Back Online : 22/5/2020 - Uknown Time GMT+1**
